@@ -1,0 +1,9 @@
+colorama
+discord
+equests
+json
+base64 
+emoji
+websocket
+http.client
+pypresence
